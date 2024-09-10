@@ -1,3 +1,3 @@
 <template>
-    <div> cupboard </div>
+    <sub-header :title="'cupboard'"/>
 </template>

@@ -1,6 +1,5 @@
 <template>
   <div>
-    <drink-header />
     <NuxtPage />
   </div>
 </template>

@@ -1,3 +1,3 @@
 <template>
-    <div> fridge </div>
+    <sub-header :title="'fridge'"/>
 </template>

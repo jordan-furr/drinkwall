@@ -690,8 +690,16 @@ a {
 }
 
 .header {
-    padding-left: 120px;
-    padding-right: 120px;
+    padding-left: 124px;
+    padding-right: 124px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+}
+
+.sub-header {
+    padding-left: 80px;
+    padding-right: 80px;
     padding-top: 60px;
     padding-bottom: 60px;
     box-sizing: border-box;

@@ -1,3 +1,3 @@
 <template>
-    <div> table </div>
+    <sub-header :title="'table'"/>
 </template>

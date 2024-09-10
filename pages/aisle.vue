@@ -1,3 +1,3 @@
 <template>
-    <div> aisle </div>
+    <sub-header :title="'aisle'"/>
 </template>
