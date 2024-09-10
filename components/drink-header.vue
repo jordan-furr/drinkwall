@@ -1,5 +1,5 @@
 <template>
-    <div class="header">
+    <div class="ph10 header">
         <nav>
             <div class="flex flex-row space-between menu">
                 <p>

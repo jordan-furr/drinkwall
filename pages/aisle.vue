@@ -1,3 +1,5 @@
 <template>
-    <sub-header :title="'aisle'"/>
+    <div class="page ph7">
+        <sub-header :title="'aisle'"/>
+    </div>
 </template>

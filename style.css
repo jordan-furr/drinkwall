@@ -82,7 +82,10 @@ h6 {
 
 .flex-end {
     justify-content: end;
-    gap: 0.5rem;
+}
+
+.align-end {
+    align-items: flex-end;
 }
 
 .align-center {
@@ -306,8 +309,12 @@ h6 {
     padding-left: 2rem;
 }
 
-.pl7 {
+.pl6 {
     padding-left: 3rem;
+}
+
+.pl7 {
+    padding-left: 4rem;
 }
 
 .pr1 {
@@ -366,6 +373,21 @@ h6 {
 .ph6 {
     padding-left: 3rem;
     padding-right: 3rem;
+}
+
+.ph7 {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.ph8 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.ph10 {
+    padding-left: 7rem;
+    padding-right: 7rem;
 }
 
 .pv1 {
@@ -685,24 +707,35 @@ a {
     cursor: default;
 }
 
+p {
+    font-size: 60px;
+    line-height: 90px;
+}
+
 .menu a {
     font-size: 52px;
 }
 
 .header {
-    padding-left: 124px;
-    padding-right: 124px;
-    padding-top: 60px;
+    padding-top: 40px;
     padding-bottom: 60px;
     box-sizing: border-box;
 }
 
 .sub-header {
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 60px;
+    padding-top: 40px;
     padding-bottom: 60px;
     box-sizing: border-box;
+}
+
+.landing-logo {
+    font-weight: 500;
+    font-size: 200px;
+    line-height: 240px;
+}
+
+.fridge p {
+    margin-bottom: 72px;
 }
 
 
