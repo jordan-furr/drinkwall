@@ -3,12 +3,12 @@
         <sub-header :title="'fridge'" />
         <div></div>
         <div>
-            <div class="text-center">
+            <div class="text-center ph10">
                 <div class="mb7">
                     <p>browse the fridge</p>
                 </div>
-                <div class="flex flex-row margin-a fridge">
-                    <div class="flex flex-col w-33">
+                <div class="flex flex-row align-center fridge bg-white">
+                    <div class="flex flex-col align-start">
                         <div>
                             <p>drinks</p>
                         </div>
@@ -19,7 +19,7 @@
                             <p>condiments</p>
                         </div>
                     </div>
-                    <div class="flex flex-col w-33">
+                    <div class="flex flex-col align-start ">
                         <div>
                             <p>produce</p>
                         </div>
@@ -30,7 +30,7 @@
                             <p>frozen</p>
                         </div>
                     </div>
-                    <div class="flex flex-col w-33">
+                    <div class="flex flex-col align-start">
                         <div>
                             <p>proteins</p>
                         </div>

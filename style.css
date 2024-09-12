@@ -88,6 +88,10 @@ h6 {
     align-items: flex-end;
 }
 
+.align-start {
+    align-items: start;
+}
+
 .align-center {
     align-items: center;
 }
